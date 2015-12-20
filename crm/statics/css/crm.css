@@ -1,0 +1,10 @@
+.text-mid {
+	font-size: 18px;
+	padding:0 2px 0 2px;
+}
+.uncheck-a-status{
+	opacity: .6;
+}
+.check-a-statys{
+	opacity: 1;
+}
