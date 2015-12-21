@@ -8,9 +8,9 @@ return array(
 	'db' => array(
 		'host'    => '127.0.0.1',
 		'port'    => '3306',
-		'user'    => 'database user name',
-		'pass'    => 'database user password',
-		'db'      => 'database name',
+		'user'    => 'nash_crm',
+		'pass'    => 'nash_crm',
+		'db'      => 'vstone',
 		'charset' => 'utf8',
 	),
 
@@ -34,8 +34,8 @@ return array(
 	#运行日志配置文件
 	'log' => array(
 		'level'   => E_ALL,
-		'error'   => 'error_log path',
-		'debug'   => 'debug_log path',
+		'error'   => '/Applications/XAMPP/logs/nashCompany',
+		'debug'   => '/Applications/XAMPP/logs/nashCompany',
 	),
 
 	#运行环境配置
