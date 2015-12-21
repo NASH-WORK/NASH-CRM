@@ -26,4 +26,4 @@ Third  Update app/config (config-dev) /config.php file with the database informa
 Development Team: Nash Dev Team
 E-mail:service@nash.work<br>
 
-##Enjoy ~
+##Enjoy ~!
