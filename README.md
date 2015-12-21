@@ -1,6 +1,5 @@
 # nashCrm
 
-##Nash-CRM<br>
 环境要求:php5.2,Mysql5.0<br>
 表结构:crm.sql<br>
 
