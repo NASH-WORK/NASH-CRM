@@ -22,7 +22,7 @@ Database table structure:crm.sql<br>
 @ This system is widely used in the href= <a "http://nash.work" > NASH.WORK </a>, and the relevant personnel to give suggestions, in this show very much thanks to their active participation<br>
 
 ##Developers：<br>
-Development Team: NASH.WORK Dev Team
+Development Team: NASH.WORK Dev Team<br>
 E-mail:service@nash.work<br>
 
 ##Enjoy ~
