@@ -1,13 +1,12 @@
-# nashCrm
+# NASH Crm
 
-##Nash-CRM<br>
 Operating environment requirements:php5.2,Mysql5.0<br>
 Database table structure:crm.sql<br>
 
 ##Installation：<br>
-First  Import the project to the WWW directory；<br>
-Second Import the crm.sql file into the MySQL database;<br>
-Third  Update app/config (config-dev) /config.php file with the database information and directory information,<br>
+1 Import the project to the WWW directory；<br>
+2 Import the crm.sql file into the MySQL database;<br>
+3 Update app/config (config-dev) /config.php file with the database information and directory information,<br>
 
 ##Description：<br>
 `app`：Service logic processing part<br>
@@ -20,10 +19,10 @@ Third  Update app/config (config-dev) /config.php file with the database informa
 
 ##Special thanks：<br>
 @ The static page of this CRM system is built on the href= <a "http://materializecss.com/" >materializecss</a>, in particular thanks to the materializecss developer to provide the relevant framework<br>
-@ This system is widely used in the href= <a "nash.work" > Nash space </a>, and the relevant personnel to give suggestions, in this show very much thanks to their active participation<br>
+@ This system is widely used in the href= <a "http://nash.work" > NASH.WORK </a>, and the relevant personnel to give suggestions, in this show very much thanks to their active participation<br>
 
 ##Developers：<br>
-Development Team: Nash Dev Team
+Development Team: NASH.WORK Dev Team
 E-mail:service@nash.work<br>
 
-##Enjoy ~!
+##Enjoy ~

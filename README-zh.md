@@ -1,4 +1,4 @@
-# nashCrm
+# NASH Crm
 
 环境要求:php5.2,Mysql5.0<br>
 表结构:crm.sql<br>
@@ -19,7 +19,7 @@
 
 ##特别感谢：<br>
 @ 此CRM系统的静态页面基于<a href="http://materializecss.com/">materializecss</a>构建，在此特别感谢materializecss开发者提供相关框架<br>
-@ 此系统在<a href="nash.work">纳什空间</a>中被广泛的使用，并且相关人员积极给出建议，在此表示十分感谢他们的积极参与<br>
+@ 此系统在<a href="http://nash.work">纳什空间</a>中被广泛的使用，并且相关人员积极给出建议，在此表示十分感谢他们的积极参与<br>
 
 ##开发人员：<br>
 E-mail:zhaoguang@nash.work<br>
