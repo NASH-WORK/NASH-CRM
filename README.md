@@ -1,26 +1,28 @@
 # nashCrm
 
-##Nash-CRM<br>
-环境要求:php5.2,Mysql5.0<br>
-表结构:crm.sql<br>
+Operating environment requirements:php5.2,Mysql5.0<br>
+Database table structure:crm.sql<br>
 
-##安装教程：<br>
-第一步：把php文件拷贝到www目录下；<br>
-第二步：把crm.sql文件导入到mysql数据库中；<br>
-第三步：修改app/config(config-dev)/config.php文件里的数据库信息和目录信息，<br>
+##Installation：<br>
+1 Import the project to the WWW directory；<br>
+2 Import the crm.sql file into the MySQL database;<br>
+3 Update app/config (config-dev) /config.php file with the database information and directory information,<br>
 
-##项目说明：<br>
-`app`：后台逻辑处理部分<br>
-`crm`：前端页面部分<br>
-`database`：数据库模块<br>
-`framework`：后台基础框架<br>
+##Description：<br>
+`app`：Service logic processing part<br>
+`crm`：Web page part<br>
+`database`：Database definition part<br>
+`framework`：Service logic framework part<br>
 
-##特别说明：<br>
-`app/index.php`为入口文件，控制着加载不同的配置文件，以满足开发&生产环境的快速切换<br>
+##Notice：<br>
+`app/index.php` is the entry of the file, control the load of different configuration files to meet the development and production environment of the fast handover<br>
 
-##特别感谢：<br>
-@ 此CRM系统的静态页面基于<a href="http://materializecss.com/">materializecss</a>构建，在此特别感谢materializecss开发者提供相关框架<br>
-@ 此系统在<a href="nash.work">纳什空间</a>中被广泛的使用，并且相关人员积极给出建议，在此表示十分感谢他们的积极参与<br>
+##Special thanks：<br>
+@ The static page of this CRM system is built on the href= <a "http://materializecss.com/" >materializecss</a>, in particular thanks to the materializecss developer to provide the relevant framework<br>
+@ This system is widely used in the href= <a "nash.work" > Nash space </a>, and the relevant personnel to give suggestions, in this show very much thanks to their active participation<br>
 
-##开发人员：<br>
-E-mail:zhaoguang@nash.work<br>
+##Developers：<br>
+Development Team: Nash Dev Team
+E-mail:service@nash.work<br>
+
+##Enjoy ~
