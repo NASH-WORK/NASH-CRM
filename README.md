@@ -18,8 +18,8 @@ Database table structure:crm.sql<br>
 `app/index.php` is the entry of the file, control the load of different configuration files to meet the development and production environment of the fast handover<br>
 
 ##Special thanks：<br>
-@ The static page of this CRM system is built on the href= <a "http://materializecss.com/" >materializecss</a>, in particular thanks to the materializecss developer to provide the relevant framework<br>
-@ This system is widely used in the href= <a "nash.work" > Nash space </a>, and the relevant personnel to give suggestions, in this show very much thanks to their active participation<br>
+@ The static page of this CRM system is built on the <a href="http://materializecss.com/" >materializecss</a>, in particular thanks to the materializecss developer to provide the relevant framework<br>
+@ This system is widely used in the <a href="nash.work" > Nash space </a>, and the relevant personnel to give suggestions, in this show very much thanks to their active participation<br>
 
 ##Developers：<br>
 Development Team: Nash Dev Team
